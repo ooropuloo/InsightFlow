@@ -70,7 +70,7 @@ This project explores and validates:
 1. Clone the project
 ```bash
 git clone <repository-url>
-cd ai-tool-platform
+cd InsightFlow
 ```
 
 2. Install frontend dependencies
@@ -99,6 +99,26 @@ python main.py
 # Start frontend (new terminal)
 npm run dev
 ```
+
+Backend will be available at http://localhost:8000
+
+API endpoint: http://localhost:8000/api/chat
+
+6. Start Frontend Development Server
+```bash
+# Development mode
+npm run dev
+
+# Production build
+npm run build
+npm start
+
+# Static export
+npm run build
+npm run export
+```
+
+Access the application at `http://localhost:3000`
 
 ## 📈 Development Status
 
