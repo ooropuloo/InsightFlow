@@ -1,0 +1,40 @@
+{
+  "name": "ai-tool-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.0.10",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "@vercel/analytics": "^1.1.1",
+    "ai": "^4.0.18",
+    "ai-tool-platform": "file:",
+    "clsx": "^2.0.0",
+    "eslint": "^8.55.0",
+    "eslint-config-next": "14.0.3",
+    "exceljs": "^4.4.0",
+    "lucide-react": "^0.294.0",
+    "mssql": "^11.0.1",
+    "next": "^14.2.20",
+    "openai": "^4.24.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.1",
+    "react-syntax-highlighter": "^15.6.1",
+    "tailwind-merge": "^2.1.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16"
+  }
+}
