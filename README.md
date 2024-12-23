@@ -37,11 +37,11 @@ This project explores and validates:
 - Code Generation: AI-assisted Python code generation
 - Conversational Queries: Natural language to data operations
 
-### Technical Highlights
-- High Performance: Modern architecture based on Next.js 14
-- Type Safety: Complete TypeScript support
-- Elegant Interface: Tailwind CSS responsive design
-- Reliable Security: Comprehensive error handling
+### Technical
+- Modern architecture based on Next.js 14
+- Complete TypeScript support
+- Tailwind CSS responsive design
+- Comprehensive error handling
 
 ## 🛠️ Tech Stack
 
