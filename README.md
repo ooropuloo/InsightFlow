@@ -144,6 +144,10 @@ Access the application at `http://localhost:3000`
 - [ ] Data export features
 - [ ] User permission management
 - [ ] History tracking
+- [ ] Reference and integrate features from other open source projects
+  - [ ] Study GPT Code Interpreter implementation (https://github.com/huqianghui/GPT-Code-Interpreter)
+  - [ ] Explore OpenCodeInterpreter features (https://github.com/OpenCodeInterpreter/OpenCodeInterpreter)
+  - [ ] Evaluate and adapt best practices from both projects
 
 ## 📝 Usage Guide
 
