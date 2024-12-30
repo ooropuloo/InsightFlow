@@ -130,11 +130,11 @@ Access the application at `http://localhost:3000`
 - [x] Results returned to frontend
 
 ### TODO List
-- [ ] Frontend UI Updates
-  - [ ] Implement Vercel AI SDK
-  - [ ] Display Agent tool usage information
+- [x] Frontend UI Updates
+  - [x] Implement Vercel AI SDK
+  - [x] Display Agent tool usage information
   - [ ] Show generated Python code
-  - [ ] Real-time execution progress
+  - [x] Real-time execution progress
 - [ ] Database Integration
   - [ ] Text-to-SQL conversion validation
   - [ ] Database connection and query functionality
